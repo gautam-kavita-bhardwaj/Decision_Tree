@@ -33,12 +33,3 @@ To run these notebooks, the following libraries are utilized:
 * **pandas**: For data manipulation and DataFrame structuring.
 * **seaborn**: For loading the Titanic dataset.
 * **matplotlib**: For rendering the decision tree visualizations.
-
----
-
-## 🚀 How to Run Locally
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-   cd your-repo-name
